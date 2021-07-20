@@ -1,4 +1,5 @@
 # lifeTIME
+*** Download ttf file in order to get intended UI
 
 A Clock that calculates one's lifeTime.
 If converts lifetime into 24-hours, what time are we living now?
